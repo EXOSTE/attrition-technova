@@ -1,0 +1,12 @@
+# Environnement virtuel et caches Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.ruff_cache/
+
+# Système
+.DS_Store
+
+# Dossier local de préparation des livrables
+livrables/
